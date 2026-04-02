@@ -5,4 +5,4 @@ include/
 lib/
 lib64@
 pyvenv.cfg
-igonre-this.txt
+ignore-this.txt
